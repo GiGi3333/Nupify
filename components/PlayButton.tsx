@@ -9,7 +9,7 @@ const PlayButton = () => {
                 rounded-full
                 flex
                 items-center
-                bg-fuchsia-600
+                bg-purple-600
                 p-4
                 drop-shadow-md
                 translate
@@ -20,7 +20,7 @@ const PlayButton = () => {
 
             "
         >
-            <FaPlay className="text-black"/>
+            <FaPlay className="text-white"/>
         </button>
      );
 }

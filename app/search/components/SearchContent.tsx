@@ -50,7 +50,6 @@ const SearchContent: React.FC<SearchContentProps> = ({
                     <LikeButton songId={song.id} />
                 </div>
             ))}
-            search content!
         </div>
      );
 }

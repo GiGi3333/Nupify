@@ -51,7 +51,7 @@ const ArtistItem: React.FC<ArtistItemProps> = ({
             </div>
             <div className="flex flex-col items-start w-full pt-4 gap-y-1">
                 <p className="font-semibold truncate w-full">
-                    {data.name}
+                    {data.title}
                 </p>
                 <p
                 className="

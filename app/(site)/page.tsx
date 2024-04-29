@@ -38,7 +38,7 @@ export default async function Home() {
 
             "
           >
-            Buongiorno
+            Bentornato
           </h1>
           <div
             className="

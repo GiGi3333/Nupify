@@ -166,7 +166,7 @@ const PlayerContent: React.FC<PlayerContentProps> = ({
               h-10
               w-10 
               rounded-full 
-              bg-white 
+              bg-purple-600
               p-1 
               cursor-pointer
             "
